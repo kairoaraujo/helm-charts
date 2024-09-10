@@ -1,6 +1,6 @@
 apiVersion: v2
 name: rstuf-demo
-description: RSTUF Demo deploying RSTUF services, PostgreSQL, and Redis together
+description: RSTUF Demo deploying RSTUF services and infrastructure services. This deployment is not recommended for production.
 version: 0.1.0
 
 dependencies:
